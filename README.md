@@ -24,8 +24,6 @@ Train and test the model and report the performance
 
 ## Alogrithm
 
-Download the data from the link
-
 ## Results
 
 ### Confusion Matrix 

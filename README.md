@@ -1,4 +1,4 @@
-# email_classifier
+# Enron  email classifier
 
 ## Objective
 
@@ -22,7 +22,12 @@ The data needs to be preprocessed / cleaned and then build a model to categorize
    
 Train and test the model and report the performance
 
-## Alogrithm
+## Alogrithm / Approach
+
+1. Download the email files from the weblink : https://bailando.berkeley.edu/enron_email.html
+   and place it in the repository.
+    
+2. 
 
 ## Results
 

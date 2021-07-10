@@ -77,11 +77,11 @@ The data needs to be preprocessed / cleaned and then build a classier model to c
 
 ## Results
 1. Multinominal Naive Bayes classifier gives 62% accuracy on test data.
-   ![MNB](images/mn_results.png)
+   ![MNB](/images/mn_results.png)
 
 2. SVM classifier gives 67.2% accuracy on the test data.
-   ![Alt text](images/svm_results.png?raw=true "SVM")
-   
+   ![SVM](/images/svm_results.png)
+
    Note: In the confution matrix index represents as below
 
     0 ->  Company Business, Strategy, etc.

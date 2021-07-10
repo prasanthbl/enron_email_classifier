@@ -7,9 +7,9 @@ The objective of the work is to classify the email dataset available in the belo
 
 The data needs to be preprocessed / cleaned and then build a classier model to categorize them into the following classes. Then train and test the model and report the performance.
     
-    a). Company Business, Strategy, etc.
+    a) Company Business, Strategy, etc.
    
-    b). Purely Personal
+    b) Purely Personal
    
     c) Personal but in professional context (e.g., it was good working with you)
    
@@ -88,7 +88,7 @@ The data needs to be preprocessed / cleaned and then build a classier model to c
    
     1 -> Purely Personal 
    
-    2-> Personal but in professional context (e.g., it was good working with you)
+    2 -> Personal but in professional context (e.g., it was good working with you)
    
     3 -> Logistic Arrangements (meeting scheduling, technical support, etc)
    
